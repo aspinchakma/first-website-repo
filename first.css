@@ -1,0 +1,70 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Old+Standard+TT:ital,wght@0,400;0,700;1,400&family=Oswald:wght@200;300;400;500;600;700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fuggles&family=Old+Standard+TT:ital,wght@0,400;0,700;1,400&family=Oswald:wght@200;300;400;500;600;700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fuggles&family=Old+Standard+TT:ital,wght@0,400;0,700;1,400&family=Open+Sans+Condensed:ital,wght@0,300;1,300&family=Oswald:wght@200;300;400;500;600;700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+        .bana-bihar{
+            color:black;
+            background-color:aqua;
+            margin-top:40px;
+            margin-right:80px;
+            margin-bottom:40px;
+            margin-left:80px;
+            padding:30px 90px;
+        }
+    .aspin-chakma{
+        color:red;
+        
+    }
+    .kaptai-lake{
+        background-color:yellow;
+        margin:40px 80px;
+        padding:50px 90px 60px;
+    }
+
+    .cultural-museum{
+        background-color:rgb(54, 187, 72);
+        width:50%;
+        margin:0 auto;
+        padding-top:50px;
+        padding-left:60px;
+        padding-bottom:70px;
+        padding-left:80px;
+    }   
+   .bana-bihar, .kaptai-lake, .cultural-museum{
+       border:2px solid black;
+       border-radius:13px;
+       
+   }
+   .website-intro{
+       color:black;
+       background:orange;
+       width:38%;
+       margin:20px auto;
+       padding:26px 56px;
+       border:2px solid black;
+       border-radius:10px;
+   }
+    h3{
+        text-align:center;
+    }
+    .bana-bihar p, .kaptai-lake p, .cultural-museum p{
+        text-align:justify;
+        font-family: 'Old Standard TT', serif;
+        font-weight:600;
+    }
+    .website-intro p{
+        text-align: center;
+    }
+    .website-intro h1, .kaptai-lake h3, .bana-bihar h3, .cultural-museum h3{
+        font-family: 'Oswald', sans-serif;
+        font-weight:400;
+        font-size: 24px;
+    }
+    .div small{
+        font-family: 'Fuggles', cursive;
+        font-weight:400;
+
+    }
+
+    
